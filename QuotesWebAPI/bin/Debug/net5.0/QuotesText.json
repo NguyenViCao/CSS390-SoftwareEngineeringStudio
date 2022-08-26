@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "8d4beb47-40b5-4884-98eb-39ee85e98552",
+    "Text": "Ha Ha.",
+    "Author": "Nelson Muntz",
+    "CreatedDate": "2021-08-27T00:00:00-07:00"
+  }, 
+  {
+    "Id": "9c021c24-925e-4d1a-ada7-3db7298f0bc9",
+    "Text": "But man is not made for defeat. A man can be destroyed but not defeated.",
+    "Author": "Ernest Hemingway",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+  {
+    "Id": "7a0fad07-7b68-45f1-80dd-a69dd9b9e6b0",
+    "Text": "Ripe tomatoes",
+    "Author": "socha",
+    "CreatedDate": "2021-08-27T00:00:00-07:00"
+  },
+  {
+    "Id": "34cf2f33-f9fb-4b95-b078-800343a0cd03",
+    "Text": "Be yourself; everyone else is already taken.",
+    "Author": "Oscar Wilde",
+    "CreatedDate": "2021-09-02T00:00:00-07:00"
+  },
+  {
+    "Id": "1c9da8d8-5b76-47c3-8c70-b9b3bdb106ee",
+    "Text": "One should always eat muffins quite calmly. It is the only way to eat them.",
+    "Author": "Oscar Wilde",
+    "CreatedDate": "2021-09-02T00:00:00-07:00"
+  },
+  {
+    "Id": "e111f256-4923-4a88-936a-cbf9f5b07981",
+    "Text": "When life gives you lemons, make lemonade.",
+    "Author": "Elbert Hubbard",
+    "CreatedDate": "2022-01-19T00:00:00-07:00"
+  },
+  {
+    "Id": "b40d72ff-3bc7-4acb-b11b-7a45316b5fed",
+    "Text": "Set your heart ablaze!",
+    "Author": "Kyojuro Rengoku",
+    "CreatedDate": "2022-01-17T00:00:00-07:00"
+  }
+]
