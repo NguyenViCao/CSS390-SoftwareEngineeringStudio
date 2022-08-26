@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QuSvp+OeBQofB3cILfqUFeUDbATqr23H4cq+5rrTs2SI+2LoDpLmi2U2v7306rlAPRXaz+rWHp9eoODV5xmxTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vy Cao\\source\\repos\\software-engineering-studio\\c sharp\\AzureMySqlExample\\AzureMySqlExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vy Cao\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
